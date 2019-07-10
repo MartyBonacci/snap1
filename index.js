@@ -21,6 +21,6 @@ console.log(punk, ska, jazz);
 
 // this function concatenates two strings
 function concatenateTwoStrings (string1, string2) {
-	return string1 + " " + string2;
+	return string1 + "SPACE" + string2;
 }
 console.log(concatenateTwoStrings('thingOne', 'thingTwo'));
